@@ -36,7 +36,7 @@ We will also be providing the following summary tables as part of the report:
 ![districtSummary_noTHS](https://user-images.githubusercontent.com/81447450/115161226-0d946400-a062-11eb-84c0-1320ab5af265.png)
 
 * How is the school summary affected?
-  * The school summery math and reading scores were not drastically changed. The removal of 9th grade data decreased Thomas High School's math and reading score averages and percentages, but only by a fraction of a percentage.
+  * The school summary math and reading scores were not drastically changed. The removal of 9th grade data decreased Thomas High School's math and reading score averages and percentages, but only by a fraction of a percentage.
  ![THS_school_summary_noTHS](https://user-images.githubusercontent.com/81447450/115161249-45031080-a062-11eb-9dac-20a06598d642.png)
 
 *	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
