@@ -31,7 +31,7 @@ We will also be providing the following summary tables as part of the report:
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 * How is the district summary affected?
-  * The district summary was not significantly affected. The main change was the number of students decreased from 39,170 to 38,709 students. The metrics for math and reading scores only changed by a fraction of a percentage. This might be because we have such a large data set and the number of replaced 9th grade scores were minimal in comparison. One metric that remained the same was the district's average reading score (81.9.)
+  * The main change was the number of students decreased from 39,170 to 38,709 students. Howver the district summary was not significantly affected overall. The metrics for average math scores only decreased by a fraction of a percentage. The same can be seen for % passing reading, % passing math, and % overall passing. This might be because we have such a large data set and the number of replaced 9th grade scores were minimal in comparison. One metric that remained the same was the district's average reading score (81.9.)
 ![districtSummary_original](https://user-images.githubusercontent.com/81447450/115161222-0a997380-a062-11eb-8e00-c5c311a88a62.png)
 ![districtSummary_noTHS](https://user-images.githubusercontent.com/81447450/115161226-0d946400-a062-11eb-84c0-1320ab5af265.png)
 
