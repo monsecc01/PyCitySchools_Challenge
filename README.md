@@ -26,14 +26,14 @@ We will also be providing the following summary tables as part of the report:
 * How is the school summary affected?
   * Thomas High School metrics for math and reading scores were not drastically changed. The removal of 9th grade data decreased the math and reading score average and percentages, but only by a fraction of a percentage.
 *	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-  * Removing 9th grade math and reading data does not affect Thomas High School’s performance; the school remained the second highest performing schools in the district.
-
+	  * Removing 9th grade math and reading data does not affect Thomas High School’s performance; the school remained the second highest performing schools in the district.
+ 
 How does replacing the ninth-grade scores affect the following:
 *	Math and reading scores by grade.
-  * The only change to this metric is that there are NaNs in the 9th grade column for Thomas High School. 
+	 * The only change to this metric is that there are NaNs in the 9th grade column for Thomas High School. 
 *	Scores by school spending
-  * The scores by school spending metrics are not affected by the replacement of ninth-grade scores. The metrics are the same, this could be because changes to score averages are a fraction of a percentage. 
+	 * The scores by school spending metrics are not affected by the replacement of ninth-grade scores. The metrics are the same, this could be because changes to score averages are a fraction of a percentage. 
 *	Scores by school size
-  *	The scores by school size metrics are not affected by the replacement of ninth-grade scores.
+	 * The scores by school size metrics are not affected by the replacement of ninth-grade scores.
 *	Scores by school type
-  *	The scores by school type metrics are not affected by the replacement of ninth-grade scores.
+	 * The scores by school type metrics are not affected by the replacement of ninth-grade scores.
