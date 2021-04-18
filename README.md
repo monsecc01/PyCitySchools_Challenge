@@ -1,8 +1,8 @@
 # PyCity Schools Challenge
 
 ## Resources
-Data Source: 
-
+Data Source: schools_complete.csv and students_complete.csv
+Code: PyCitySchools_Challenge
 Software: Python 3.9, Visual Studio Code 1.55.1
 
 ----
