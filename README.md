@@ -1,8 +1,12 @@
 # PyCity Schools Challenge
 
 ## Resources
-Data Source: schools_complete.csv and students_complete.csv
-Code: PyCitySchools_Challenge
+Data Source: 
+[schools_complete.csv](https://github.com/monsecc01/PyCitySchools_Challenge/blob/main/schools_complete.csv) and 
+[students_complete.csv](https://github.com/monsecc01/PyCitySchools_Challenge/blob/857705264cda2b7c54b06b5dfb921e4b3f60081c/students_complete.csv)
+
+Code: [PyCitySchools_Challenge](https://github.com/monsecc01/PyCitySchools_Challenge/blob/857705264cda2b7c54b06b5dfb921e4b3f60081c/PyCitySchools_Challenge.ipynb)
+
 Software: Python 3.9, Visual Studio Code 1.55.1
 
 ----
